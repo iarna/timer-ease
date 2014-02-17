@@ -1,0 +1,15 @@
+{
+  "name": "timer-ease",
+  "description": "Sugar for JavaScript's ugly, ugly timer functions",
+  "version": "1.0.1",
+  "private": false,
+  "dependencies": {
+  },
+  "main": "timer.js",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iarna/timer-ease.git"
+  },
+  "bugs": { "url" : "http://github.com/iarna/timer-ease/issues" }
+}
